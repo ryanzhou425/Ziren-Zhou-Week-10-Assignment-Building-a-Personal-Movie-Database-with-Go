@@ -52,7 +52,7 @@ Compared to IMDb, a personal movie database emphasizes privacy, customization, a
 - Searched for important considerations when writing SQL statements in Go
 - Searched for why the program remains unresponsive for a long time after running go run main.go
 - Searched for how to speed up bulk data insertion in Go
-- Searched for what a transaction is in and why it can significantly improve performance
+- Searched for what a transaction is and why it can significantly improve performance
 
 
 ---

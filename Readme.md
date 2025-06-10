@@ -21,17 +21,7 @@ The terminal will display the query results.
 # SQL Example Query
 The program executes an example SQL query to count the total number of movies in each genre, sorts them in descending order by quantity, and outputs the top ten genres.
 
-**The results are as follows:**
-- Genre: Short           Total Movies: 208263
-- Genre: Drama           Total Movies: 185872
-- Genre: Comedy          Total Movies: 144661
-- Genre: Documentary     Total Movies: 108271
-- Genre: Animation       Total Movies: 45175
-- Genre: Action          Total Movies: 37260
-- Genre: Romance         Total Movies: 34935
-- Genre: Crime           Total Movies: 31559
-- Genre: Family          Total Movies: 28774
-- Genre: Thriller        Total Movies: 27017
+<pre> ``` The results are as follows: Genre: Short Total Movies: 208263 Genre: Drama Total Movies: 185872 Genre: Comedy Total Movies: 144661 Genre: Documentary Total Movies: 108271 Genre: Animation Total Movies: 45175 Genre: Action Total Movies: 37260 Genre: Romance Total Movies: 34935 Genre: Crime Total Movies: 31559 Genre: Family Total Movies: 28774 Genre: Thriller Total Movies: 27017 ``` </pre>
 
 ---
 # Design Concept for a Personal Collection Module
